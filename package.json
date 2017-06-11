@@ -63,7 +63,7 @@
   "peerDependencies": {
     "react": "^0.14.9 || ^15.3.0",
     "react-dom": "^0.14.9 || ^15.3.0",
-    "reactstrap": "^2.5.0"
+    "reactstrap": "^4.6.2"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
